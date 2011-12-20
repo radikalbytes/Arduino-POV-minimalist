@@ -7,6 +7,8 @@ Este proyecto lo he realizado para el concurso de navidad 2011 de [Bricogeek](ht
 El circuito es muy simple y consta de 7 leds con sus resistencias limitadoras y un acelerometro de un solo eje.  
 El acelerómetro MMA2260 se encarga de indicarnos hacia que lado se mueve el dispositivo y éste muestra el mensaje de derecha a izquierdas o de izquierdas a derecha.  
 Es tan simple como moverlo de un lado hacia otro.  
+Podeis ver un video en <http://www.youtube.com/watch?v=Gj8ltyB3Krc>  
+
 #### Esquema  
 ![POV schematic][2]
 [2]:https://github.com/radikaldesig/Arduino-POV-minimalist/blob/master/schematic.jpg?raw=true  
